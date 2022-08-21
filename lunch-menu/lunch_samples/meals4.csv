@@ -1,0 +1,13 @@
+meal,category,calories,protein,fat,carbs,amount,price
+fries,sidedish,143,2.55,4.09,24.02,200,1.4
+boiled potatoes,sidedish,93,2.18,0.22,21.29,280,1.1
+boiled rice,sidedish,206,4.47,4.33,38.6,190,0.6
+baked chicken thighs,main dish,129,17.12,5.91,1.86,100,2.6
+fried cauliflower,main dish,256,6.5,14.1,24.1,170,2.8
+grilled salmon,main dish,175,25.4,8.1,0.0,120,4.0
+chicken soup,soup,25,2.2,1.04,1.69,350,0.6
+goulash soup,soup,63,3.82,3.1,5.36,350,0.6
+pea soup,soup,79,5.0,3.1,5.36,350,0.6
+tangerine,dessert,39,0.72,0.3,7.7,85,0.25
+apple,dessert,49,0.37,0.4,9.9,130,0.2
+banana,dessert,90,1.2,0.24,19.8,120,0.25

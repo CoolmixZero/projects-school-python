@@ -1,0 +1,13 @@
+meal,category,calories,protein,fat,carbs,amount,price
+baked potato,sidedish,124,2.3,3.2,19.5,280,0.9
+pasta,sidedish,135,3.5,2.5,22.8,225,0.7
+boiled potatoes,sidedish,93,2.18,0.22,21.29,280,1.1
+fried cauliflower,main dish,256,6.5,14.1,24.1,170,2.8
+baked chicken thighs,main dish,129,17.12,5.91,1.86,100,2.6
+boiled chicken,main dish,170,27.3,6.7,0.0,150,2.2
+bean soup,soup,41,2.23,2.75,2.23,350,0.7
+chicken soup,soup,25,2.2,1.04,1.69,350,0.6
+tomato soup,soup,45,0.68,1.53,7.7,350,0.7
+apple,dessert,49,0.37,0.4,9.9,130,0.2
+orange,dessert,43,0.92,0.22,7.9,240,0.6
+tangerine,dessert,39,0.72,0.3,7.7,85,0.25

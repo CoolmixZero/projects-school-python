@@ -1,0 +1,5 @@
+calories,50,1500
+protein,5,300
+fat,5,300
+carbs,5,300
+price,4.80
